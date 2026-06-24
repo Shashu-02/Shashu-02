@@ -30,6 +30,8 @@
             git reset --hard main
             # Copy files from dist/ to root
             cp dist/* .
+            # Fix permissions and remove dist directory
+            chmod -R u+w dist
             rm -rf dist
             git add .
             git commit -m "Update snake SVGs [skip ci]" || echo "No changes"
