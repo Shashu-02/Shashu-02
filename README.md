@@ -79,7 +79,7 @@
   | Kubernetes | 🔵 Learning | In Progress |
   | Terraform | 🔵 Active | IaC Projects |
   | Linux (Arch) | 🟢 Daily Driver | Advanced |
-  | LeetCode | 🔥 Grinding |  
+  | LeetCode | 🔥 Grinding |  50+ |
 
   </p>
 
